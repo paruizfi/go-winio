@@ -3,7 +3,7 @@ package etwlogrus
 import (
 	"sort"
 
-	"github.com/Microsoft/go-winio/pkg/etw"
+	"github.com/paruizfi/go-winio/pkg/etw"
 	"github.com/sirupsen/logrus"
 )
 
